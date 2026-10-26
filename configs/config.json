@@ -1,0 +1,19 @@
+{
+    "prefix": ">",     
+    "embedcolor": "RED", 
+    "dev": "852742568332886077",    
+   "developer": "˚₊· ͟͟͞➳❥ 𝐑𝐞𝐘𝐌𝐢𝐢 ナ乛daylightライハ˚#0007",
+   "AVATARURL" : "https://cdn.discordapp.com/avatars/855771153036738590/f6277925ad0c8bf826a71d9b715703c7.png?size=1024",
+    "token" : "", 
+    "invite": "https://discord.com/oauth2/authorize?client_id=855771153036738590&scope=bot&permissions=1477831806",
+
+    "database": "",
+     "avatarurl": "https://cdn.discordapp.com/avatars/855771153036738590/f6277925ad0c8bf826a71d9b715703c7.png?size=1024",
+  "colors": {
+    "yes" : "#ddcc33",
+    "no"  : "#ff4d4d"
+  },
+    "FACT_API": "",
+    "AME_API": ""     
+}
+
